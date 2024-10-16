@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd (print working directory) reveals your current location among files by revealing the directory your currently in
+pwd (print working directory) reveals the directory your currently residing in
