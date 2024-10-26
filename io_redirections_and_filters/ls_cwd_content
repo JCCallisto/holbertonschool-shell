@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 2 jean jean 4096 oct 26 10:17 .
+drwxrwxr-x 6 jean jean 4096 oct 24 17:43 ..
+-rwxrw-r-- 1 jean jean   32 oct 24 17:49 0-hello_world
+-rwxrw-r-- 1 jean jean   28 oct 25 08:49 1-confused_smiley
+-rwxrw-r-- 1 jean jean   28 oct 25 08:54 2-hellofile
+-rwxrw-r-- 1 jean jean   39 oct 25 09:18 3-twofiles
+-rwxrw-r-- 1 jean jean   29 oct 25 09:55 4-lastlines
+-rwxrw-r-- 1 jean jean   29 oct 25 10:00 5-firstlines
+-rwxrw-r-- 1 jean jean   40 oct 25 11:17 6-third_line
+-rwxrw-r-- 1 jean jean   92 oct 26 08:16 7-file
+-rwxrw-r-- 1 jean jean   36 oct 26 10:17 8-cwd_state
+-rw-rw-r-- 1 jean jean    0 oct 26 10:17 ls_cwd_content
+-rw-rw-r-- 1 jean jean   13 oct 24 17:43 README.md
